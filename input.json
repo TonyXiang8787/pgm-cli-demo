@@ -15,7 +15,7 @@
       { "id": 4, "node": 1, "status": 1, "u_ref": 1, "sk": 200e6, "rx_ratio": 0.1 }
     ],
     "asym_load": [
-      { "id": 5, "node": 2, "status": 1, "type": 1, "p_specified": [1e6, 0.5e6, 0.25e6], "q_specified": [0.2e6, 0.1e6, 0.05e6] }
+      { "id": 5, "node": 2, "status": 1, "type": 0, "p_specified": [1e6, 0.5e6, 0.25e6], "q_specified": [0.2e6, 0.1e6, 0.05e6] }
     ]
   }
 }
