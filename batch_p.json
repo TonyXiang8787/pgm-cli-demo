@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "update",
+  "is_batch": true,
+  "attributes": {},
+  "data": [
+    {
+      "asym_load": [
+        { "id": 5, "p_specified": [0.8e6, 0.4e6, 0.2e6] }
+      ]
+    },
+    {
+      "asym_load": [
+        { "id": 5, "p_specified": [0.9e6, 0.45e6, 0.225e6] }
+      ]
+    },
+    {
+      "asym_load": [
+        { "id": 5, "p_specified": [1.0e6, 0.5e6, 0.25e6] }
+      ]
+    },
+    {
+      "asym_load": [
+        { "id": 5, "p_specified": [1.1e6, 0.55e6, 0.275e6] }
+      ]
+    },
+    {
+      "asym_load": [
+        { "id": 5, "p_specified": [1.2e6, 0.6e6, 0.3e6] }
+      ]
+    }
+  ]
+}
