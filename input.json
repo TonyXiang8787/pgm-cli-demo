@@ -16,6 +16,9 @@
     ],
     "asym_load": [
       { "id": 5, "node": 2, "status": 1, "type": 0, "p_specified": [1e6, 0.5e6, 0.25e6], "q_specified": [0.2e6, 0.1e6, 0.05e6] }
+    ],
+    "fault": [
+      { "id": 6, "status": 1, "fault_type": 0, "fault_phase": 0, "fault_object": 2, "r_f": 0.01, "x_f": 0.01 }
     ]
   }
 }
